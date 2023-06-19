@@ -21,13 +21,10 @@ AMANE
 
 ## Ürün Açıklaması
 
-- Ürünümüz Proje Yönetiminde kullanılmak üzere tasarlandı. Ekibin projenin baştan sona hangi aşamada olduğunu görmesi amaçlanıyor. 
+- Uygulamamızın asıl amacı, çevik proje yönetimi modelinin bir parçası olan, kanban tablosuna bir çeşitlilik sunmak ve diğer proje yönetimi araçlarına yerli kaynaklı bir alternatif oluşturmak. 
 
-
-- **Uygulama birincil fonksiyonu**: 
-
-- **Uygulama ikincil fonksiyonu**: 
-
+- **Uygulama birincil fonksiyonu**: Kanban tablosuyla ilgili işlemlerin yapılması
+- **Uygulama ikincil fonksiyonu**: Kullanıcıların rahatlıkla kavrayabileceği kullanıcı dostu arayüze sahip olmasi.
 ## Ürün Özellikleri
 
 - Ürün Özellikleri;
