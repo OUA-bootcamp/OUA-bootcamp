@@ -12,7 +12,7 @@ Takım Flutter 69
 
 ## Ürün İsmi
 
-----
+AMANE
 
 ## Product Backlog URL
 
@@ -20,7 +20,7 @@ Takım Flutter 69
 
 ## Ürün Açıklaması
 
-
+- Ürünümüz Proje Yönetiminde kullanılmak üzere tasarlandı. Ekibin projenin baştan sona hangi aşamada olduğunu görmesi amaçlanıyor. 
 
 
 - **Uygulama birincil fonksiyonu**: 
@@ -29,11 +29,13 @@ Takım Flutter 69
 
 ## Ürün Özellikleri
 
-- 
+- Ürün Özellikleri;
+- yapıldı/yapılıyor/yapılacak şeklinde tüm durumu listeliyor.
+- takvim ve saat ile desteklenecek.
 
 ## Hedef Kitle
 
-- 
+- Bireysel veya ekip çalışması ile gerçekleştirilecek herhangi bir proje gelişim aşamasında yardımcı olarak kullanılabilecek.
 
 ## Juriye Not
 
