@@ -8,6 +8,7 @@ Takım Flutter 69
 - Handenur Karpuz: Product Owner
 - Tuğçe Yalçın: Scrum Master
 - Gülce Tuzcu: Developer
+- Harun Yıldız: Developer
 - Aybike Kiramanlioğlu: Aktif Olmayan Üye
 
 ## Ürün İsmi
