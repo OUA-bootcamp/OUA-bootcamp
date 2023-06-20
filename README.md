@@ -59,7 +59,8 @@ AMANE
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-
+[(https://github.com/OUA-bootcamp/OUA-bootcamp/blob/main/Kanban_Project_Management_What_Is_Its_Benefits_How_to_Use.webp)]
+[(https://github.com/OUA-bootcamp/OUA-bootcamp/blob/main/kanban-project-management.png)]
 - 
   Henüz araştırma aşamasında olduğumuz için elimizde ss yok.
 - **Sprint Review**: 
