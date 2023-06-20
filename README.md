@@ -35,7 +35,7 @@ AMANE
 
 - Bireysel veya ekip çalışması ile gerçekleştirilecek herhangi bir proje gelişim aşamasında yardımcı olarak kullanılabilecek.
 
-## Juriye Not
+
 
 
 
@@ -43,6 +43,8 @@ AMANE
 
 # Sprint 1
 
+- **Sprint notları**: User Sttory'ler product backlogların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+  
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
@@ -61,7 +63,7 @@ AMANE
 - **Ürün Durumu**: Ekran görüntüleri:
   Henüz araştırma aşamasında olduğumuz için elimizde ss yok.
 - **Sprint Review**: 
-Alınan kararlar:
+Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wireframe oluşturulmaya başlandı.
 
 - **Sprint Retrospective:**
   - Roller belirlenmiştir.
