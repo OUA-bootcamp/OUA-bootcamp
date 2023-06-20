@@ -60,10 +60,10 @@ AMANE
   <img width="1085" alt="Ekran Resmi 2023-06-20 21 13 41" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/fdb76cc4-7418-4cea-be66-ed61731c3522">
 
 - **Ürün Durumu**: Ekran görüntüleri:
-[(https://github.com/OUA-bootcamp/OUA-bootcamp/blob/main/Kanban_Project_Management_What_Is_Its_Benefits_How_to_Use.webp)]
-[(https://github.com/OUA-bootcamp/OUA-bootcamp/blob/main/kanban-project-management.png)]
-- 
-  Henüz araştırma aşamasında olduğumuz için elimizde ss yok.
+<img width="1397" alt="Ekran Resmi 2023-06-20 21 20 38" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/4ecec81e-cb94-409b-aca2-aa9f340f6427">
+<img width="815" alt="Ekran Resmi 2023-06-20 21 20 00" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/57b8b2f3-6fa3-4c8c-a544-37c202bfff3d">
+
+  
 - **Sprint Review**: 
 Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wireframe oluşturulmaya başlandı.
 
