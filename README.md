@@ -59,6 +59,8 @@ AMANE
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
+- 
   Henüz araştırma aşamasında olduğumuz için elimizde ss yok.
 - **Sprint Review**: 
 Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wireframe oluşturulmaya başlandı.
