@@ -56,8 +56,6 @@ AMANE
 
 [(https://github.com/OUA-bootcamp/OUA-bootcamp/files/11786740/F-69TAKIMI_1.SPRINTDailyScrumMeeting.docx)]
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
