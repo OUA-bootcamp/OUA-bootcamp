@@ -53,7 +53,7 @@ AMANE
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
-     [Daily Scrum İndirme Bağlantısı] (https://github.com/OUA-bootcamp/OUA-bootcamp/files/11786740/F-69TAKIMI_1.SPRINTDailyScrumMeeting.docx)
+  [Sprint 1 Daily Scrum Chats](https://github.com/OUA-bootcamp/OUA-bootcamp/files/11786740/F-69TAKIMI_1.SPRINTDailyScrumMeeting.docx)
 
 - **Sprint Board Update**: Sprint board screenshotları:
   <img width="1085" alt="Ekran Resmi 2023-06-20 21 13 41" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/fdb76cc4-7418-4cea-be66-ed61731c3522">
