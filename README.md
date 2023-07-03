@@ -86,7 +86,7 @@ Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wir
 - **Sprint içinde tamamlanması tahmin edilen puan**: 30 puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
-  
+[Sprint 2 Daily Scrum Chats](https://github.com/OUA-bootcamp/OUA-bootcamp/issues/2#issue-1785165414)  
 - **Sprint board update**: Sprint board screenshotları: 
 
 <img width="1350" alt="Ekran Resmi 2023-07-03 04 43 14" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/2f726e89-f2bd-4f98-9f7a-c8cb7970eea4">
