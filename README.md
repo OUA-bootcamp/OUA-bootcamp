@@ -5,8 +5,8 @@ Takım Flutter 69
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Handenur Karpuz: Product Owner
-- Tuğçe Yalçın: Scrum Master
+- Handenur Karpuz: Product Owner/Developer
+- Tuğçe Yalçın: Scrum Master/Developer
 - Gülce Tuzcu: Developer
 - Harun Yıldız: Developer
 - Aybike Kiramanlioğlu: Aktif Olmayan Üye
@@ -37,7 +37,7 @@ AMANE
 
 ## Juriye Not
 
-- Ekibimiz; 2. sprint daily scrum chatinde hem yazılı hem görsel paylaştığı sslerde de anlaşıldığı durumlardan ötürü, 2. sprintte ürün değişikliğine gidilerek hesap makinesi yapmaya karar vermiştir. 
+- Ekibimiz; 2. sprint daily scrum chatinde hem yazılı hem görsel paylaştığı sslerde de anlaşıldığı durumlardan ötürü, 2. sprintte ürün değişikliğine giderek hesap makinesi yapmaya karar vermiştir. 
 
 ---
 
