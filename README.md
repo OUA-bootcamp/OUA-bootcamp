@@ -35,9 +35,9 @@ AMANE
 
 - Bireysel veya ekip çalışması ile gerçekleştirilecek herhangi bir proje gelişim aşamasında yardımcı olarak kullanılabilecek.
 
+## Juriye Not
 
-
-
+- Ekibimiz; 2. sprint daily scrum chatinde hem yazılı hem görsel paylaştığı sslerde de anlaşıldığı durumlardan ötürü, 2. sprintte ürün değişikliğine gidilerek hesap makinesi yapmaya karar vermiştir. 
 
 ---
 
