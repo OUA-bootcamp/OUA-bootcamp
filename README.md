@@ -83,28 +83,32 @@ Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wir
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 puan
 
-- **Daily Scrum**: 
-
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
+  
 - **Sprint board update**: Sprint board screenshotları: 
 
+<img width="1350" alt="Ekran Resmi 2023-07-03 04 43 14" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/2f726e89-f2bd-4f98-9f7a-c8cb7970eea4">
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- **Sprint Review**: 
 
+  
+  <img width="298" alt="Ekran Resmi 2023-07-03 04 54 37" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/623e2ef2-671f-4c00-8cf4-5339f4bb9cf9">
+
+- **Sprint Review**: Alınan kararlar: Kullanıcı temel sayfasının arayüzünün ilk 2 adımı kodlanmıştır. Kalan kısmın kodlanması ve tasarım fikrinin eksiklerinin 3. sprintte tamamlanması kararı alınmıştır. Sprint Review katılımcıları: Handenur Karpuz, Harun Yıldız, Gülce Tuzcu 
 
 - **Sprint Retrospective:**
 
-
+ Takım üyeleri; 2. sprintte Kurban Bayramı, üniveriste final sınavı, ekip üyelerinin yaşadığı sağlık sorunları ve diğer bir ekip üyesinin yaşadığı teknik arıza nedeniyle daha az aktif olmasını 3. sprintte telafi etme kararı almıştır.
 
 
 ---
 
 ## Product Backlog URL
 
-
+[Flutter Team 69 Miro Backlog Board]()
 
 ---
 
