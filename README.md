@@ -149,8 +149,8 @@ Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wir
 
   
 - **Sprint Retrospective:**
-   Ekip üyelerinin düzenki çalışması tebrik edilmiştir. Gelecek projelerde de her bir takım arkadaşı için bu özverinin korunması temenni edilmiştir.
-
+   Ekip üyelerinin düzenli çalışması tebrik edilmiştir.
+   Gelecek projelerde de her bir takım arkadaşımızın daha aktif olabileceği vurgulanmıştır.
 
 
 
