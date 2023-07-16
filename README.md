@@ -5,10 +5,10 @@ Takım Flutter 69
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Handenur Karpuz: Product Owner/Developer
-- Tuğçe Yalçın: Scrum Master/Developer
+- Handenur Karpuz: Scrum Master(2.ve 3. Sprint) /Product Owner/Developer
 - Gülce Tuzcu: Developer
 - Harun Yıldız: Developer
+- Tuğçe Yalçın: Scrum Master(1. Sprint)
 - Aybike Kiramanlioğlu: Aktif Olmayan Üye
 
 ## Ürün İsmi
@@ -120,12 +120,17 @@ Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wir
 
 # Sprint 3
 
-- **
+- **Sprint notları**: User Sttory'ler product backlogların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+  
+- **Sprint içinde tamamlanması tahmin edilen puan**: 210 Puan
+  
 
+- **Puan tamamlama mantığı**: Ekip üyelerinin 2. Sprintte bahsi geçen aksaklıklar nedeniyle toplam 340 olması gereken paunın kalan 210 puanlık kısmının tamamlanması hedeflendi.
 
-- **Daily Scrum**: 
-
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OUA-bootcamp/OUA-bootcamp/files/12065045/F-69_TAKIMI_3.SPRINT_DAILY_MEETING.docx)
+  
 - **Sprint board update**: Sprint board screenshotları: 
+<img width="1317" alt="Ekran Resmi 2023-07-16 23 51 42" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/ef6903db-00fa-4849-ab57-adae35465c22">
 
 
 
