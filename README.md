@@ -127,7 +127,7 @@ Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wir
 
 - **Puan tamamlama mantığı**: Ekip üyelerinin 2. Sprintte bahsi geçen aksaklıklar nedeniyle toplam 340 olması gereken paunın kalan 210 puanlık kısmının tamamlanması hedeflendi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OUA-bootcamp/OUA-bootcamp/files/12065045/F-69_TAKIMI_3.SPRINT_DAILY_MEETING.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OUA-bootcamp/OUA-bootcamp/files/12065085/F-69_TAKIMI_3.SPRINT_DAILY_MEETING-2.docx)
   
 - **Sprint board update**: Sprint board screenshotları: 
 <img width="1317" alt="Ekran Resmi 2023-07-16 23 51 42" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/ef6903db-00fa-4849-ab57-adae35465c22">
@@ -135,12 +135,21 @@ Alınan kararlar: Proje için bir roadmap oluşturuldu ve genel hatları ile wir
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+  
+<img width="279" alt="Ekran Resmi 2023-07-16 23 55 07-2" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/cc37e584-70c5-4b4f-900b-e7cca91b75f7">
 
 
-- **Sprint Review**: 
 
 
+<img width="284" alt="Ekran Resmi 2023-07-16 23 55 30" src="https://github.com/OUA-bootcamp/OUA-bootcamp/assets/136345793/3c110669-2339-4d18-bf0b-506772550c0b">
+
+
+
+- **Sprint Review**: Alınan kararlar: Ürünün başarılı çalışması hakkında konuşulmuştur.Sprint Review katılımcıları: Handenur Karpuz, Harun Yıldız, Gülce Tuzcu
+
+  
 - **Sprint Retrospective:**
+   Ekip üyelerinin düzenki çalışması tebrik edilmiştir. Gelecek projelerde de her bir takım arkadaşı için bu özverinin korunması temenni edilmiştir.
 
 
 
